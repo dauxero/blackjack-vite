@@ -1,12 +1,4 @@
-# BlackJack Vite
+# Proyecto del curso de fernando herrera - Javascript
 
-Pasos para ejecutar proyecto:
-
-1. Clonar repositorio
-2. Ejecutar ```npm install``` para reconstruir los módulos de node
-3. Correr el devServer ```npm run dev```
-
-## Producción
-
-1. Ejecutar ```npm run build```
-2. Tomar la carpeta ```dist``` y desplegarla
+1. Comando de vites
+2. Comando y configuracion de gitHub
