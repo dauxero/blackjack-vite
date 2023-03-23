@@ -2,3 +2,4 @@
 
 1. Comando de vites
 2. Comando y configuracion de gitHub
+3. commit y push
